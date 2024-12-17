@@ -2,3 +2,5 @@
 /MomentTest
 /__pycache__
 /__pycache__
+/csv_exports
+*.db
