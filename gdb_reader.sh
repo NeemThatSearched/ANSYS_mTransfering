@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Укажите базовый путь, где находятся папки
-BASE_DIR="/Users/neem/Downloads/Granta EduPack/2024 R1/Database"
+BASE_DIR=".../Granta EduPack/2024 R1/Database"
 
 # Создайте основную директорию для CSV-файлов, если она не существует
 OUTPUT_BASE_DIR="csv_exports"
